@@ -148,7 +148,7 @@ public class Mayank {
 
 <br/><br/>
 
-*"The best time to start was yesterday. The second best time is now."* 💡
+*"Bit confused but moving forward anyway."* 💡
 
 </div>
 
