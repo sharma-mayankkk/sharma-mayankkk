@@ -170,4 +170,4 @@ Bit confused but moving forward anyway...
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=90e0ef&fontAlignY=70&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=130&section=footer&text=woooooooooooooaaaaahhhh&fontSize=20&fontColor=90e0ef&fontAlignY=70&animation=twinkling" />
