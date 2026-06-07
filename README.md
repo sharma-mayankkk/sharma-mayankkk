@@ -3,7 +3,7 @@
 
 <!-- Animated Tagline -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00B4D8&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+in+the+making+%F0%9F%94%A5;Turning+coffee+into+code+since+2023+%E2%98%95;DSA+grinder+%7C+React+builder+%7C+Java+lover;102+contributions+%26+still+going+%F0%9F%9A%80;%22Bit+confused+but+moving+forward%22+%F0%9F%98%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00B4D8&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+in+the+making+%F0%9F%94%A5;Turning+coffee+into+code+since+2023+%E2%98%95;DSA+grinder+%7C+React+%7C+Java+;102+contributions+%26+still+going+%F0%9F%9A%80;%22Bit+confused+but+moving+forward%22+%F0%9F%98%AF" alt="Typing SVG" />
 
 <br/>
 
