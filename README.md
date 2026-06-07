@@ -71,21 +71,20 @@
 
 <div align="center">
 
-<!-- Repo cards using gh-card.dev — more reliable than github-readme-stats pins -->
 <a href="https://github.com/sharma-mayankkk/dsa-problems">
-  <img width="49%" src="https://gh-card.dev/repos/sharma-mayankkk/dsa-problems.svg?fullname=&link_target=_blank&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=dsa-problems&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/sharma-mayankkk/JAVA-DSA">
-  <img width="49%" src="https://gh-card.dev/repos/sharma-mayankkk/JAVA-DSA.svg?fullname=&link_target=_blank&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=JAVA-DSA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
 </a>
 
 <br/>
 
 <a href="https://github.com/sharma-mayankkk/react.js-chaiAurCode">
-  <img width="49%" src="https://gh-card.dev/repos/sharma-mayankkk/react.js-chaiAurCode.svg?fullname=&link_target=_blank&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=react.js-chaiAurCode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/sharma-mayankkk/backend-404">
-  <img width="49%" src="https://gh-card.dev/repos/sharma-mayankkk/backend-404.svg?fullname=&link_target=_blank&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=backend-404&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -152,7 +151,7 @@
 | `DSA` | Grinding Striver A2Z — Arrays → Trees |
 | `Backend` | Node.js + REST APIs via Chai Aur Code |
 | `React` | Building UI projects, hooks & state mgmt |
-| `Goal` | Internship-ready by end of 2025 🎯 |
+| `Goal` | Obv... to get a job 🎯 |
 
 </div>
 
@@ -167,7 +166,7 @@
 
 <br/>
 
-*Drop a ⭐ if my repos helped you. It keeps me going!*
+Bit confused but moving forward anyway...
 
 </div>
 
