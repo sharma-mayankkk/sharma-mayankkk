@@ -138,7 +138,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House&border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Whattt??&author=Joe%20Biden&border=true" />
 
 </div>
 
@@ -170,4 +170,4 @@ Bit confused but moving forward anyway...
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=130&section=footer&text=woooooooooooooaaaaahhhh&fontSize=20&fontColor=90e0ef&fontAlignY=70&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=130&section=footer&text=%F0%9F%A6%87%20I'm%20Batman%20%F0%9F%A6%87&fontSize=20&fontColor=90e0ef&fontAlignY=70&animation=twinkling" />
