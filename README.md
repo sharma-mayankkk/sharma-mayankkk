@@ -67,30 +67,6 @@
 
 ---
 
-## 📦 &nbsp;What I've Been Building
-
-<div align="center">
-
-<a href="https://github.com/sharma-mayankkk/dsa-problems">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=dsa-problems&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sharma-mayankkk/JAVA-DSA">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=JAVA-DSA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/sharma-mayankkk/react.js-chaiAurCode">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=react.js-chaiAurCode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sharma-mayankkk/backend-404">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=sharma-mayankkk&repo=backend-404&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
